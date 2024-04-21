@@ -7,7 +7,7 @@ export default function Page() {
         My Portfolio
       </h1>
       <pre className="mb-4">
-        {`Hello there , I am ElCapor , a hobbyist developer. I have a passion for software engineering
+        Hello there , I am ElCapor , a hobbyist developer. I have a passion for software engineering
         and reverse engineering. I have a github account at <a href="https://github.com/ElCapor>https://github.com/ElCapor</a>
         I like to learn new things and I like to share my knowledge with others. My github profile is filled with a lot of repositories
         with over 70% of them unfinished, the reason being is that usually i just want to attempt to replicate
@@ -48,7 +48,6 @@ export default function Page() {
 
         I barely play any game, maybe just Minecraft from time to time.
         I am also a big fan of open source and I contribute from time to time to some projects.
-        `}
       </pre>
       <div className="my-8">
         <BlogPosts />
