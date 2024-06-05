@@ -9,7 +9,7 @@ export default function Page() {
       <pre className="mb-4">
         {`
         Hello there , I am ElCapor , a hobbyist developer. I have a passion for software engineering
-        and reverse engineering. I have a github account at <a href="https://github.com/ElCapor>https://github.com/ElCapor</a>
+        and reverse engineering. I have a github account at <a href="https://github.com/ElCapor">https://github.com/ElCapor</a>
         I like to learn new things and I like to share my knowledge with others. My github profile is filled with a lot of repositories
         with over 70% of them unfinished, the reason being is that usually i just want to attempt to replicate
         some system i saw on the internet or just to learn something new. I specialize in "generalization", this means
